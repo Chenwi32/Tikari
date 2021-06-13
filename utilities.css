@@ -1,0 +1,24 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.title {
+  color: rgb(81, 221, 105);
+
+  font-family: serif;
+  font-size: 1.8em;
+
+  margin: 1.5em 1.5em 1.5em 0.9em;
+  text-align: start;
+}
+
+.paragraphs {
+  color: rgb(88, 1, 1);
+
+  letter-spacing: 0.08em;
+  line-height: 1.3em;
+  word-spacing: 0.1em;
+  font-size: 1.2em;
+  font-family: sans-serif;
+}

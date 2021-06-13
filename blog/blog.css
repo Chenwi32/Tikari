@@ -1,0 +1,24 @@
+/*///////////////// Blogs Styling //////////////////*/
+.blogs .container {
+  padding: 4em 0.8em 0.5em;
+}
+
+.blogs .container p{
+    margin: 1.5em;
+}
+/*/ //////////////// Blogs Styling //////////////////*/
+
+/*//////////////// CTA Styling ///////////////////*/
+.cta {
+  position: relative;
+  justify-content: flex-end;
+}
+
+.cta .chat-bot {
+  position: absolute;
+}
+/*/ /////////////// End CTA Styling ///////////////////*/
+
+footer {
+  margin-top: 18em;
+}
