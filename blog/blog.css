@@ -15,6 +15,7 @@
 }
 
 .cta .chat-bot {
+  left: 2em;
   position: absolute;
 }
 /*/ /////////////// End CTA Styling ///////////////////*/
