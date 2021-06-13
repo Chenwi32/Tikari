@@ -13,6 +13,11 @@
   text-align: start;
 }
 
+.para {
+  padding-left: 1em;
+  font-size: 1.5em;
+}
+
 .paragraphs {
   color: rgb(88, 1, 1);
 
